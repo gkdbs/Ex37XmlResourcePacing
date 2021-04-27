@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<movie>
+    <item>
+        <no>1</no>
+        <number>
+            <title>Alien</title>
+            <genre>SF, action, adventure</genre>
+        </number>
+    </item>
+    <item>
+        <number>
+            <no>2</no>
+            <title>Abata</title>
+            <genre>SF, action, adventure</genre>
+        </number>
+    </item>
+    <item>
+        <number>
+            <no>3</no>
+            <title>Notting</title>
+            <genre>roamnce, adventer</genre>
+        </number>
+    </item>
+    <item>
+        <no>4</no>
+        <number>
+            <title>Nightmare</title>
+            <genre>horror, thriller</genre>
+        </number>
+    </item>
+</movie>
